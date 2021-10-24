@@ -1,0 +1,18 @@
+Predict tennis winners: given selected column data, will the new observation (i.e. player) win?
+
+tourney_date: extract the year (make year column)
+tourney_name
+surface
+tourney_level
+winner_seed
+winner_name
+winner_hand
+winner_ht (winner_height)
+winner_ioc
+winner_age
+best_of
+minutes
+w_ace
+w_df
+winner_rank
+winner_rank_points
