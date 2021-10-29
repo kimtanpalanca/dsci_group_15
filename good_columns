@@ -1,6 +1,3 @@
-Predict tennis winners: given selected column data, will the new observation (i.e. player) win?
-
-
 winner_name
 winner_ht
 winner_age
@@ -13,3 +10,5 @@ w_SvGms
 winner_rank
 
 What numeric rank would be assigned to a professional tennis player - of specified age and height - based on their skill at serving?
+
+https://github.com/JeffSackmann/tennis_atp/blob/master/matches_data_dictionary.txt
