@@ -8,6 +8,6 @@ w_svpt + w_SvGms
 w_1stIn
 w_1stWon (make proportion between 1stin and 1stwon)
 
-How adept is a professional tennis player at serving given values of height and age?
+How likely could a professional tennis player be to win a tennis game based on their serving skill?
 
 https://github.com/JeffSackmann/tennis_atp/blob/master/matches_data_dictionary.txt
