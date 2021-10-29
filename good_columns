@@ -4,11 +4,10 @@ winner_age
 minutes (i.e. if ur better at serving, do u end the game quicker?)
 w_ace
 w_df
-w_svpt
-w_1stWon
-w_SvGms
-winner_rank
+w_svpt + w_SvGms
+w_1stIn
+w_1stWon (make proportion between 1stin and 1stwon)
 
-What numeric rank would be assigned to a professional tennis player - of specified age and height - based on their skill at serving?
+How adept is a professional tennis player at serving given values of height and age?
 
 https://github.com/JeffSackmann/tennis_atp/blob/master/matches_data_dictionary.txt
