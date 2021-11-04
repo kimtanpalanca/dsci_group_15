@@ -9,7 +9,7 @@ Assigned TA:
 Daisy
 
 Chosen Data Set:
-atp2017-2019.csv (https://github.com/JeffSackmann/tennis_atp/blob/master/matches_data_dictionary.txt)
+atp2017-2019.csv (https://github.com/JeffSackmann/tennis_atp)
 
 
 Due date:
